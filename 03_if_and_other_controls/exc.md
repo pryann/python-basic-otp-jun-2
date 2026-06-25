@@ -1,0 +1,3 @@
+5. Írj egy Python programot, amely kiírja egy szöveg minden második karakterét!
+6. Adott egy lista, amely számokat tartalmaz. Írj egy programot, amely meghatározza a lista elemeinek összegét a következő feltételek szerint: ha az elem pozitív, akkor az összegbe kerüljön be, ha negatív, akkor ne!
+7.  Írj egy Python programot, amely kiírja a listában található összes számot, ami 3-mal vagy 4-gyel vagy 5-tel osztható!
