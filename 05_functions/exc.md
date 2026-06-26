@@ -1,4 +1,4 @@
-1. Írj egy függvényt, amely egy lista számokat kap bemenetként, majd visszatér egy új listával, amelyben a számok a kétszeresükkel vannak helyettesítve.
+1. Írj egy függvényt, amely egy számokat tartalmazó listát kap bemenetként, majd visszatér egy új listával, amelyben a számok duplája szerepel.
 2. Írj egy Python függvényt, amely eldönti, hogy egy adott string palindrom-e vagy sem!
 Használj slicingot!
 3. Készíts egy függvényt, amely paraméterként kap két listát és visszaadja azt a listát, amely csak azokat az elemeket tartalmazza, amelyek mindkét listában szerepelnek! Comprehensiont használj!
